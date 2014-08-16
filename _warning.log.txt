@@ -1,0 +1,9 @@
+[C:\Users\Anthony\Desktop\Breaking\_warning.log.txt]
+
+[WARN ] main.angelscript, line 74: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 79: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 443: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 468: Signed/Unsigned mismatch

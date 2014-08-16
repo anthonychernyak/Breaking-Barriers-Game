@@ -1,0 +1,145 @@
+[C:\Users\Anthony\Desktop\Breaking\eth.log.txt]
+Backbuffer created as 854, 480 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+[INFO ] main.angelscript, line 63: Compiling void onSceneLoad()
+
+[WARN ] main.angelscript, line 74: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 79: Signed/Unsigned mismatch
+
+[INFO ] main.angelscript, line 435: Compiling void ETHCallback_enemy_bullet(ETHEntity@)
+
+[WARN ] main.angelscript, line 443: Signed/Unsigned mismatch
+
+[INFO ] main.angelscript, line 455: Compiling void ETHCallback_robot_bullet(ETHEntity@)
+
+[WARN ] main.angelscript, line 468: Signed/Unsigned mismatch
+
+Compile time: 32 milliseconds
+(Loaded) logo.png
+(Loaded) background.mp3
+(Loaded) floor.png
+(Loaded) wire_1.png
+(Loaded) meteor.png
+(Loaded) enemy_melee_1.png
+(Loaded) water.png
+(Loaded) crate_1.png
+(Loaded) door_1.png
+(Loaded) robot_treads_standing_1.png
+(Loaded) powerup_laser.png
+(Loaded) lever_off.png
+(Loaded) crate_3.png
+(Loaded) crate_2.png
+(Loaded) sprinkler.png
+(Loaded) ladder.png
+(Loaded) powerup_rockets.png
+(Loaded) turret_1.png
+(Loaded) Exit_sign.png
+(Loaded) powerup_waterproof.png
+(Loaded) powerup_bigarms.png
+(Loaded) chair.png
+(Loaded) powerup_magarms.png
+(Loaded) access_card.png
+(Loaded) wall.png
+(Loaded) wire_2.png
+(Loaded) enemy_melee_3.png
+(Loaded) water_1.png
+(Loaded) robot_legs_standing_1.png
+(Loaded) robot_legs_standing_2.png
+(Loaded) wire_3.png
+(Loaded) enemy_bullet.png
+(Loaded) turret_2.png
+(Loaded) water_2.png
+(Loaded) wire_4.png
+(Loaded) enemy_melee_2.png
+(Loaded) water_3.png
+(Loaded) water_4.png
+(Loaded) robot_legs_walking_4.png
+(Loaded) robot_legs_walking_1.png
+(Loaded) robot_legs_walking_2.png
+(Loaded) robot_legs_walking_3.png
+(Loaded) lever_on.png
+(Loaded) turrent.wav
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
